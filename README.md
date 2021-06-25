@@ -1,14 +1,14 @@
 ## < Hello World! / >
 
-#### Sobre mim: 
-<aside>
-🏠 Sou de Salvador, Bahia. <br>
-👩‍💻 Aspirante à desenvolvedora fullstack. <br>
-📚 Estudante de Desenvolvimento de Sistemas - Senai. <br>
-🧠 Trabalho bem com: HTML, CSS e Javascript. <br>
-📖 Aprendendo React.js e Node.js. <br>
-🎮 Gosto de jogar jogos cooperativos, de tabuleiro e focados na história. <br>
-🐈 Tenho 6 gatos! <br> </aside>
+### Sobre mim: 
+
+- 🏠 Sou de Salvador, Bahia.
+- 👩‍💻 Aspirante à desenvolvedora fullstack.
+- 📚 Estudante de Desenvolvimento de Sistemas - Senai.
+- 🧠 Trabalho bem com: HTML, CSS e Javascript.
+- 📖 Aprendendo React.js e Node.js.
+- 🎮 Gosto de jogar jogos cooperativos, de tabuleiro e focados na história. <br>
+- 🐈 Tenho 6 gatos!
 
 
 ## Estatísticas 📈📊
