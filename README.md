@@ -3,7 +3,7 @@
 ### Sobre mim: 
 
 - 🏠 Sou de Salvador, Bahia.
-- 👩‍💻 Aspirante à desenvolvedora fullstack.
+- 👩‍💻 Aspirante a desenvolvedora fullstack.
 - 📚 Estudante de Desenvolvimento de Sistemas - Senai.
 - 🧠 Trabalho bem com: HTML, CSS e Javascript para desenvolvimento Web.
 - 📖 Aprendendo React.js e Node.js.
