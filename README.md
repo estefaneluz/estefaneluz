@@ -4,7 +4,7 @@
 
 - 🏠 Sou de Salvador, Bahia.
 - 👩‍💻 Desenvolvedora fullstack.
-- 📚 Estudante de Desenvolvimento de Sistemas - Senai.
+- 📚 Técnica em Desenvolvimento de Sistemas.
 - 🧠 Trabalho bem com React.js e Node.js
 - 🎮 Gosto de jogar jogos cooperativos, de tabuleiro e focados na história. <br>
 - 🐈 Tenho 6 gatos!
