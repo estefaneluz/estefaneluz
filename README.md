@@ -8,7 +8,6 @@
 - 📚 Bacharelanda em Engenharia de Software
 - 🧠 Trabalho bem com React.js e Node.js
 - 🎮 Gosto de jogar jogos cooperativos, de tabuleiro e focados na história. <br>
-- 🐈 Tenho 6 gatos!
 
 
 ## Estatísticas 📈📊
